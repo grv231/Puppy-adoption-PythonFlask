@@ -27,5 +27,5 @@ flask db migrate -m "<Custom Message>"
 flask db upgrade
 ```
 7. Initiate the python project using the following command: **python app.py**
-8. Finally, test the project using - **http://127.0.0.1:5000"
+8. Finally, test the project using - http://127.0.0.1:5000
 
