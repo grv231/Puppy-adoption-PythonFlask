@@ -8,6 +8,8 @@ This project aims at using the powerful REST Python framework "Flask" for buildi
 - Adding a new owner with Puppy ID
 - Listing the number of puppies
 
+![alt text](https://github.com/grv231/Puppy-adoption-PythonFlask/blob/master/Images/HomePage.jpg "Home_Page")
+
 ## Project Setup
 Copy the required files in a directory. Then use the following steps to setup the project:
 
